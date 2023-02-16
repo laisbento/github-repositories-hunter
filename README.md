@@ -40,6 +40,8 @@ To run tests, run the following command
 
 ## API Reference
 
+Swagger: http://localhost:8080/swagger-ui/index.html
+
 #### Get all repositories from an existing user
 
 ```http
