@@ -48,7 +48,7 @@ Swagger: http://localhost:8080/swagger-ui/index.html
 
 #### Get all repositories from an existing user
 
-```http
+```
   GET /github?username:githubUsername
 ```
 
